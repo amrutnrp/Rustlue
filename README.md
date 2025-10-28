@@ -13,7 +13,7 @@ A **GUI framework with Rust + FLTK + Lua**
 -  **No external dependencies** : no extra DLL needed, no other installations
 -  **Fast Interation** : Helps in rapid development of script & GUI
 -  **Declarative UI**: Define window & widgets via a TOML config file, no need to learn any GUI library specific code
--  **Lua scripting**: blazing fast execution and interpreter embedded inside
+-  **Lua scripting**: blazing fast execution and interpreter embedded inside the executable
 - <span style="color:gray"> **Customizable styling**: Fonts, colors, layout, and themes</span> <br>
 - <span style="color:gray"> **Modify Widgets in Lua**: Get/set text, color, state, and more</span>
 
@@ -108,9 +108,10 @@ If your usage falls into the following, suggest not to use this repo
 ## 📜 License
 
 MIT License. See `LICENSE` for details. 
+PS - The code is AI assited.
 
 ## ☕ Buy me a Coffee
 
 Not really, :P <br>
-If you're using this and found it helpful, let me know , I'll be glad to hear that.
+If you're using this and found it helpful; let me know.<br> I'll be glad to hear that.
 
