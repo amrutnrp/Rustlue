@@ -92,12 +92,13 @@ end
 ```
 ---
 ## Limitations
-If your usage falls into the following, suggest not to use this repo
+If your usage falls into the following, I humbly suggest not to use this project
 - **Mutliple Windows**
 - **Complex Libraries** : such as openpyxl / graphics / plotting libraries etc
 - **Dynamic Widgets** : code is expected to create/ destroy widgets during the execution
 - **OS support** : have not tested it on Linux based OS
 - **Asthetics** : FLTK looks old and outdated. But, it gets the job done. 
+- **Code Security** : Lua code is readable and cannot be protected as of now. It's planned in future, let me know if you need.
 
 
 
