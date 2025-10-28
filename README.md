@@ -109,7 +109,7 @@ If your usage falls into the following, I humbly suggest not to use this project
 ## 📜 License
 
 MIT License. See `LICENSE` for details. 
-PS - The code is AI assited.
+<br> PS - The code is AI assited.
 
 ## ☕ Buy me a Coffee
 
