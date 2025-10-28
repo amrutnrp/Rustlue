@@ -1,0 +1,20 @@
+
+# user defines the GUI 
+
+[window]
+title = " [ welcome page ]"
+width = 1000
+height = 700
+# x = 100
+# y = 100
+font = "Segoe UI , 17"
+bgcolor = "240-240-240"
+
+[[widgets]]
+id = "1"
+type = "button"
+label = "Welcome to Rustlue!"
+x = 200
+y=200
+height = 100
+width = 200

@@ -1,0 +1,13 @@
+[package]
+name = "rustlue"
+version = "0.1.0"
+edition = "2021"
+ 
+[dependencies]
+rfd = "0.13"
+fltk = "1.4"
+mlua = { version = "0.10", features = ["lua51", "vendored"] }
+serde = { version = "1.0", features = ["derive"] }
+toml = "0.8"   
+anyhow = "1.0"
+
